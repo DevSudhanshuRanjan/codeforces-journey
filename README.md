@@ -15,7 +15,7 @@ This repository contains my solutions to Codeforces problems, organized systemat
 
 ## 📈 Progress
 
-Consistently solving problems and pushing daily to track improvement over time.
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=devsudhanshuranjan&theme=github_dark&force_username=true&border_color=404040)
 
 ---
 
