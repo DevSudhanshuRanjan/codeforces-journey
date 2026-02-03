@@ -1,4 +1,4 @@
-# A. Watermelon
+# Watermelon
 
 | Property | Value |
 |----------|-------|

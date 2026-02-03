@@ -1,4 +1,4 @@
-# A. Bit++
+# Bit++
 
 | Property | Value |
 |----------|-------|

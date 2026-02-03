@@ -1,4 +1,4 @@
-# A. Beautiful Matrix
+# Beautiful Matrix
 
 | Property | Value |
 |----------|-------|

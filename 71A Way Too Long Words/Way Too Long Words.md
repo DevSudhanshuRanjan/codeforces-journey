@@ -1,4 +1,4 @@
-# A. Way Too Long Words
+# Way Too Long Words
 
 | Property | Value |
 |----------|-------|

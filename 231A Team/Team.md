@@ -1,4 +1,4 @@
-# A. Team
+# Team
 
 | Property | Value |
 |----------|-------|

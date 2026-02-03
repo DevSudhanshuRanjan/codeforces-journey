@@ -1,4 +1,4 @@
-# A. Domino piling
+# Domino piling
 
 | Property | Value |
 |----------|-------|
