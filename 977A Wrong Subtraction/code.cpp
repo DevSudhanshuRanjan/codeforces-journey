@@ -1,0 +1,15 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+
+    int x,n;
+    cin >> x >> n;
+    while(n--){
+        if(x%10==0) x/=10;
+        else x--;
+    }
+    cout<<x<<endl;
+
+    return 0;
+}
